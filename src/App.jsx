@@ -15,7 +15,7 @@ function App() {
     <div className="container">
       <h1>Welcome to CI/CD Pipeline with Jenkins - modified</h1>
       <div className="steps-container">
-        <h2>Implementation Steps:</h2>
+        <h2>Implementation Steps: - modified</h2>
         <ul>
           {steps.map((step, index) => (
             <li key={index}>{step}</li>
