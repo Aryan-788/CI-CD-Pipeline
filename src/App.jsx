@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Welcome to CI/CD Pipeline with Jenkins</h1>
+      <h1>Welcome to CI/CD Pipeline with Jenkins - modified</h1>
       <div className="steps-container">
         <h2>Implementation Steps:</h2>
         <ul>
